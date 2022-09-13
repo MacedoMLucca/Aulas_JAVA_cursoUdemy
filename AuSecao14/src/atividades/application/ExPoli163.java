@@ -36,33 +36,20 @@ public class ExPoli163 {
 			double price = sc.nextDouble();
 			
 			if (choice.equals("i")) {
-				
-				
-				
+
 				System.out.print("Customs fee:");
 				double customsFee = sc.nextDouble();
 			
-				Product imProd = new ImportedProduct(name, price, customsFee);
-				listProd.add(imProd);
+				Product impProd = new ImportedProduct(name, price, customsFee);
+				listProd.add(impProd);
 				
 			}else if (choice.equals("c")) {
-				
-//				System.out.print("Name: ");
-//				String name = sc.next();
-//				System.out.print("Price: ");
-//				double price = sc.nextDouble();
 				
 				Product comProd = new Product(name, price);
 				listProd.add(comProd);
 				
-				
 			}else {
 
-//				System.out.print("Name: ");
-//				String name = sc.next();
-//				System.out.print("Price: ");
-//				double price = sc.nextDouble();
-			
 				System.out.print("Manufacture date (DD/MM/YYYY):");
 				Date manufacture = sdf.parse(sc.next());
 			
