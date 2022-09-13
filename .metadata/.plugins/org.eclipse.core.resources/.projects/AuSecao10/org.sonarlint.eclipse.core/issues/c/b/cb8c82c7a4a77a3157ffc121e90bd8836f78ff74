@@ -1,9 +1,9 @@
 
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úœú³H¡RMINORZ
+CODE_SMELL
 “
-java:S1192"dDefine a constant instead of duplicating this literal "-----------------------------------" 4 times.(ÙŒÉHÚRCRITICALZ
+java:S1192"dDefine a constant instead of duplicating this literal "-----------------------------------" 4 times.(ÙŒÉH¢RCRITICALZ
 CODE_SMELL
 }
-java:S6204-"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(îö–HßRMAJORZ
-CODE_SMELL
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úœú³HàRMINORZ
+java:S6204-"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(îö–H§RMAJORZ
 CODE_SMELL
