@@ -1,0 +1,17 @@
+
+v
+java:S1192"GDefine a constant instead of duplicating this literal "d04 = " 3 times.(Ðêœ°HÈ
+RCRITICALZ
+CODE_SMELL
+U
+java:S1481")Remove this unused "fmt2" local variable.(¹£Ÿ¡HÌ
+RMINORZ
+CODE_SMELL
+U
+java:S1481")Remove this unused "fmt3" local variable.(Ê“Ž–HÎ
+RMINORZ
+CODE_SMELL
+Z
+java:S1481")Remove this unused "fmt5" local variable.(”—ñúÿÿÿÿÿHÐ
+RMINORZ
+CODE_SMELL

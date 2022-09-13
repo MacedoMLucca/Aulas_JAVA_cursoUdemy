@@ -1,0 +1,50 @@
+package entities;
+
+public class OrderItem {
+
+	private Integer quantity;
+	private Double price;
+	
+//	ASSOCIACAO
+	private Product153 product;
+
+//	CONSTRUTORES
+	public OrderItem() {
+	}
+	public OrderItem(Integer quantity, Product153 price) {
+		this.quantity = quantity;
+		this.price = price;
+	}
+	
+
+//GET e SET
+	public Integer getQuantity() {
+		return quantity;
+	}
+	public void setQuantity(Integer quantity) {
+		this.quantity = quantity;
+	}
+//	---------
+	public Product153 getPrice() {
+		return price;
+	}
+	public void setPrice(Product153 price) {
+		this.price = price;
+	}
+	
+//	METODOS
+	public double subTotal() {
+		return price * quantity;
+	}
+	
+	
+
+}
+
+
+
+
+
+
+
+

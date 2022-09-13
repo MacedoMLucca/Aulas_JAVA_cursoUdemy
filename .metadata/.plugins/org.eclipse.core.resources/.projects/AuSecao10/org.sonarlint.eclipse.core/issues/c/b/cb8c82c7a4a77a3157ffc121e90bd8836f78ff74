@@ -1,0 +1,9 @@
+
+“
+java:S1192"dDefine a constant instead of duplicating this literal "-----------------------------------" 4 times.(ЩЊЏЙHЪRCRITICALZ
+CODE_SMELL
+}
+java:S6204-"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(оц–HЯRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ЪњъіHаRMINORZ
+CODE_SMELL

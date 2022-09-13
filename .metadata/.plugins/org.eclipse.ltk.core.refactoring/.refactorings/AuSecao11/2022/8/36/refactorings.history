@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;dt_intanciacao&apos; to &apos;dt_instanciacao&apos;&#x0D;&#x0A;- Original project: &apos;AuSecao11&apos;&#x0D;&#x0A;- Original element: &apos;AuSecao11/src/dt_intanciacao&apos;&#x0D;&#x0A;- Renamed element: &apos;AuSecao11/src/dt_instanciacao&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;dt_intanciacao&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;dt_intanciacao" name="dt_instanciacao" qualified="false" references="true" stamp="1661879122433" textual="false" version="1.0"/>
+</session>

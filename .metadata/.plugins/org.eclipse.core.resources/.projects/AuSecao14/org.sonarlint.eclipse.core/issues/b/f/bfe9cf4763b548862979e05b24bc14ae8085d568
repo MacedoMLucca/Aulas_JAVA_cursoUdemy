@@ -1,0 +1,13 @@
+
+[
+java:S1481"(Remove this unused "acc" local variable.(–Àğÿ8â¢¶ö±0HğRMINORZ
+CODE_SMELL
+…
+java:S6201"MReplace this instanceof check and cast with 'instanceof BusinessAccount acc5'(úäÖŠşÿÿÿÿ8â¢¶ö±0HòRMINORZ
+CODE_SMELL
+
+java:S6201 "LReplace this instanceof check and cast with 'instanceof SavingsAccount acc5'(åšÿö8â¢¶ö±0HôRMINORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "acc1" local variable.(‡¢±Óùÿÿÿÿ8‡ô¶ö±0HRMINORZ
+CODE_SMELL

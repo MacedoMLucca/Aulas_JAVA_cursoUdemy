@@ -1,0 +1,8 @@
+package exercise;
+
+public class Le2_negativo {
+
+	public static void main(String[] args) {
+		
+	}
+}
