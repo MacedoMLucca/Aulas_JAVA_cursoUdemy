@@ -22,7 +22,5 @@ public class ProgramFileWriterBufferedWriter {
 			catch(IOException e) {
 				e.printStackTrace();
 			}
-		}
 	}
-
-
+}
